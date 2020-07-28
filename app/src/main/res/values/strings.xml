@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="user_name">Username</string>
+    <string name="user_pass">Password</string>
+    <string name="submit_text">Submit</string>
+    <string name="movie_name">Unknown Movie</string>
+    <string name="movie_type">Unknown Type</string>
+    <string name="movie_year">Unknown Year</string>
+    <string name="movie_image">Unknown Image</string>
+</resources>
